@@ -212,9 +212,9 @@ By combining human decision-making with AI-supported planning and coding, the te
 
 ## Project Information
 
-- **Project Name:** PennyWise
+- **Project Name:** PennyWise AI
 - **Project Type:** Web Application
-- **Development Stage:** [Prototype / MVP / Completed]
+- **Development Stage:** Prototype
 - **Team Members:** Shahid S and Vikram Govindarajan
-- **Repository:** [Add repository URL]
+- **Repository:** https://github.com/sha27hid-design/Binary-Titans
 - **Demo:** http://localhost:5173/
